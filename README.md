@@ -18,7 +18,7 @@ Hi, I'm Vaibhav Bisht, an iOS Developer, who loves exploring different stuff, cu
 <br/>
 <br/>
 
-  <img align="right" height="250" width="400" alt="GIF" src="https://i.ibb.co/BPXRMrr/5083e0a2a7dcaae07c142e8b87036a27.gif" alt="5083e0a2a7dcaae07c142e8b87036a27" />
+  <img align="right" height="250" width="400" alt="GIF" src="https://magiccopy.xyz/assets/images/hadder.gif" alt="5083e0a2a7dcaae07c142e8b87036a27" />
 
 **Talking about Personal Stuffs:**
 
